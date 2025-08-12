@@ -1,4 +1,4 @@
-#  Nigerian Car Market Dashboard
+#  Nigerian Car Market 
 
 ## Overview
 The **Nigerian Car Market Dashboard** provides a detailed view of automobile trends in Nigeria, covering pricing, popular brands, vehicle specifications, color preferences, and transmission choices.
